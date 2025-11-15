@@ -1,0 +1,3 @@
+/cygdrive/d/King/S5/algo/code/cmake-build-debug/CMakeFiles/code.dir
+/cygdrive/d/King/S5/algo/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/King/S5/algo/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
